@@ -6,6 +6,8 @@ Read my analysis and see visualizations on [my website](https://emilyschuch.com/
 
 The notebook `nyc_primary_2025.ipynb` uses geopandas to combine precinct level geometry with congressional district geometry and add vote totals for the first round of ranked choice voting in the NYC Democratic Mayoral Primary. I also scraped data from Ballotpedia to add the Partisan Voter Index (PVI) developed by the Cook Political Report for 2026. See the full definition of PVI in the data source linked below.
 
+If you have issues viewing the notebook file, [use this link](https://nbviewer.org/github/emschuch/nyc-primary-2025/blob/main/notebooks/nyc_primary_2025.ipynb) instead.
+
 ## Data Sources:
 * Precint Geometry: [NYC Department of City Planning - Atomic Polygons](https://www.nyc.gov/content/planning/pages/resources/datasets/atomic-polygons)
 * Congressional Districts: [NYC Department of City Planning - Congressional Districts](https://www.nyc.gov/content/planning/pages/resources/datasets/congressional-districts)
