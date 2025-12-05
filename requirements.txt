@@ -1,0 +1,6 @@
+geopandas
+matplotlib
+pandas
+plotly
+folium>=0.12
+mapclassify
